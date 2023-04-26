@@ -11,7 +11,7 @@ The project has two files:
 
 # Dataset
 
-The project uses a dataset provided for CSE 2530 Computational Intelligence course. The dataset consists of 7000 samples with 10 features each. The target variable has 7 classes.
+The project uses a dataset provided for CSE 2530 Computational Intelligence, a course in the Bachelor's of Computer Science in Delft University of Technology. The dataset consists of 7000 samples with 10 features each. The target variable has 7 classes.
 
 # ANN Architecture
 
